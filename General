@@ -1,0 +1,6 @@
+from google.colab import drive
+drive.mount('/content/drive')
+!cd /content/drive/MyDrive/repositorio/
+!ls
+%cd /content/drive/MyDrive/repositorio/
+!ls
